@@ -1,5 +1,6 @@
 # WEB-SCRAPPING
-Python Web-Scrapping
+#Python Web-Scrapping
+#this is used to send emails to me when the price drops
 import requests
 from bs4 import BeautifulSoup
 import smtplib
